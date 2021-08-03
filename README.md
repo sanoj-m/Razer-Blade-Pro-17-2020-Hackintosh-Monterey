@@ -22,7 +22,8 @@ I have no access anymore to Razer Blade notebooks and not be able to test proper
 
 Quick Note: My serial number, MLB, and UUID have been removed from the config.plist. Please use CorpNewt's GenSMBIOS to create your own
 
-**What works:**  
+**What works:**
+  
 WiFi & Bluetooth (After network card upgrade)  
 Trackpad with Gestures  
 Keyboard  
