@@ -8,6 +8,11 @@ https://github.com/stonevil
 I have no access anymore to Razer Blade notebooks and not be able to test properly and update documentation. I open for any cooperation and will try maintain this repository as much as possible. Please fill free to create Pull Requests.
 
 # Intro
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 Specs
 Key	Value
 CPU	Intel Core i7 10875h
