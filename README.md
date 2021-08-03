@@ -15,7 +15,7 @@ I have no access anymore to Razer Blade notebooks and not be able to test proper
 # Options and Fixes:
 If you want to map out your keyboard for volume controls and what not without using the FN key this app will do just that: https://pqrs.org/osx/karabiner/
 This app will also enable the Caps Lock light.
-Open Karabiner-Elements preferences.
-Click the Devices TabFind the Razer Blade (Razer) option with the Keyboard Icon underneath the Type column.
-Check the Manipulate LED box. You will get a warning, just click "Enable LED Manipulation".
-Save the profile and enjoy the working caps lock light!
+**Open Karabiner-Elements preferences.**
+1. Click the Devices TabFind the Razer Blade (Razer) option with the Keyboard Icon underneath the Type column.
+2. Check the Manipulate LED box. You will get a warning, just click "Enable LED Manipulation".
+3. Save the profile and enjoy the working caps lock light!
