@@ -8,21 +8,18 @@ https://github.com/stonevil
 I have no access anymore to Razer Blade notebooks and not be able to test properly and update documentation. I open for any cooperation and will try maintain this repository as much as possible. Please fill free to create Pull Requests.
 
 # Intro
+**Specs**  
+| Key | Value |
+| :---|  :--- |
+| CPU  | Intel Core i7 10875h  |
+| GPU  | Intel UHD Graphics 630  |
+| Screen | 17" 4K/UHD 120hz Touch Display |
+| Camera | HD webcam (720p) |
+| RAM | 16 DDR4 2,933MHz (2x8GB) |
+| Internal SSD | SSD	1TB M.2 PCIe SSD |
+| Audio | ALC298 |
+| Wireless | Intel Wireless-AX201 |
 
-| First Header  | Second Header |
-| :---          |  :---         |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-Specs
-Key	Value
-CPU	Intel Core i7 10875h
-GPU	Intel UHD Graphics 630
-Screen	17" 4K/UHD 120hz Touch Display
-Camera	HD webcam (720p)
-RAM	16 DDR4 2,933MHz (2x8GB)
-Internal SSD	512GB M.2 PCIe SSD
-Audio	ALC298
-Wireless	Intel Wireless-AX201
 Quick Note: My serial number, MLB, and UUID have been removed from the config.plist. Please use CorpNewt's GenSMBIOS to create your own
 
 **What works:**  
