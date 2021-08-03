@@ -48,7 +48,7 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 # Options and Fixes:
   
-**DVMT**
+**DVMT (All Credits to https://github.com/steelbrain)**
   
 The bios from this year's models does not open in AMIBCP. I tried many versions of AMIBCP but they all throw the warning of how language name cannot exceed 0xx bytes.
   
