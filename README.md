@@ -8,6 +8,9 @@ https://github.com/stonevil
 I have no access anymore to Razer Blade notebooks and not be able to test properly and update documentation. I open for any cooperation and will try maintain this repository as much as possible. Please fill free to create Pull Requests.
 
 # Intro
+  
+If you would like to get started with creating a Hackintosh on your Razer Blade but have no experience, I would highly reccomend following Dortania's fantastic Opencore Install guide and then returning here for troubleshooting.
+  
 **Specs**  
 | Key | Value |
 | :---|  :--- |
@@ -24,17 +27,17 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 **What works:**
   
-WiFi & Bluetooth (After network card upgrade)  
-Trackpad with Gestures  
-Keyboard  
-Backlight Controls  
-All USB Ports including the USB C port  
-Native Audio (Speakers, Headphones, Microphone and Line-In)  
-Sleep  
-Shutdown  
-Restart  
-Camera  
-Battery Status  
+*WiFi & Bluetooth (After network card upgrade)  
+*Trackpad with Gestures  
+*Keyboard  
+*Backlight Controls  
+*All USB Ports including the USB C port  
+*Native Audio (Speakers, Headphones, Microphone and Line-In)  
+*Sleep  
+*Shutdown  
+*Restart  
+*Camera  
+*Battery Status  
 
 
 
