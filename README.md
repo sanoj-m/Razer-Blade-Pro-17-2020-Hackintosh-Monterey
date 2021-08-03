@@ -7,6 +7,10 @@ https://github.com/stonevil
 # Support
 I have no access anymore to Razer Blade notebooks and not be able to test properly and update documentation. I open for any cooperation and will try maintain this repository as much as possible. Please fill free to create Pull Requests.
 
+# Pre Install
+
+Razer has locked the BIOS tight this time, so you'll need a hardware programmer to unlock DVMT Options this time around. Follow the instructions on https://git.io/JkuFs for how to mod your BIOS for this. After modding the BIOS, change DVMT Pre Alloc to 64MB, DVMT Max Alloc to MAX. Also if you've selected "Dedicated GPU Only" Graphics mode, you'll need to put it back in "NVIDIA (R) Optimus" along with Disabling Secure boot.
+
 # Intro
   
 If you would like to get started with creating a Hackintosh on your Razer Blade but have no experience, I would highly reccomend following Dortania's fantastic Opencore Install guide and then returning here for troubleshooting.
@@ -27,8 +31,9 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 **What works:**
   
-* WiFi & Bluetooth (After network card upgrade)  
 * Trackpad with Gestures  
+* Intel Bluetooth / Wifi
+* Touchscreen
 * Keyboard  
 * Backlight Controls  
 * All USB Ports including the USB C port  
