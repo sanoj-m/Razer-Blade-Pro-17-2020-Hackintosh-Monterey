@@ -33,7 +33,7 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 **What works:**
   
-* Trackpad with Gestures  
+* Trackpad with Gestures and Palm Rejection  
 * Intel Bluetooth / Wifi
 * Touchscreen
 * Keyboard  
