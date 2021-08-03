@@ -27,17 +27,17 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 **What works:**
   
-*WiFi & Bluetooth (After network card upgrade)  
-*Trackpad with Gestures  
-*Keyboard  
-*Backlight Controls  
-*All USB Ports including the USB C port  
-*Native Audio (Speakers, Headphones, Microphone and Line-In)  
-*Sleep  
-*Shutdown  
-*Restart  
-*Camera  
-*Battery Status  
+* WiFi & Bluetooth (After network card upgrade)  
+* Trackpad with Gestures  
+* Keyboard  
+* Backlight Controls  
+* All USB Ports including the USB C port  
+* Native Audio (Speakers, Headphones, Microphone and Line-In)  
+* Sleep  
+* Shutdown  
+* Restart  
+* Camera  
+* Battery Status  
 
 
 
