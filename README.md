@@ -52,7 +52,7 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 # Options and Fixes:
   
-**DVMT (All Credits to https://github.com/steelbrain)**
+**DVMT (All Credits to: https://github.com/steelbrain)**
   
 The bios from this year's models does not open in AMIBCP. I tried many versions of AMIBCP but they all throw the warning of how language name cannot exceed 0xx bytes.
   
@@ -79,6 +79,15 @@ Another thing to note here is that on my Razer Blade Pro 17 2020, if I disconnec
 In case you manage to mess up the bios and want a virgin one, go to Razer support, and download any of the “Razer Updater” bios utilities, extract them with peazip or winzip or whatever and you’ll find a vanilla bios in there.
   
 After that, just boot into bios and increase the DVMT pre alloc mem. Godspeed!
+  
+**Keyboard Illumination (All Credits to: https://github.com/vampjaz)**
+  
+The RGB keyboard (and logo illumination) cannot be easily controlled from macOS that I know of. The Razer Synapse software for Mac doesn't support this device, and various attempts to hotpatch the Razer kexts failed for me. However, I found a project that I patched and was able to use to set a few patterns. The rz_* apps in the extra folder are some hardcoded examples that can set the keyboard lights to different colors, and enable the Razer logo illumination. Some day I might improve on that app to make it more user friendly.
+
+If you want to patch this yourself, you need to change the vendor and device IDs in one of the source files since the USB ID of my keyboard differed from the one in the source:
+  
+![alt text](https://github.com/vampjaz/razer_blade_stealth_hackintosh/raw/master/images/rbs_led_code.png)
+  
   
 **Caps Lock Light**
   
