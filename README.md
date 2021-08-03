@@ -1,3 +1,4 @@
+https://drive.google.com/file/d/1pxmB59YjS2Hilq7utiq3KTkGxLUhSlWo/view?usp=sharing
 # Razer-Blade-Pro-17-2020-Hackintosh-Monterey
 Note: I'AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!
 
