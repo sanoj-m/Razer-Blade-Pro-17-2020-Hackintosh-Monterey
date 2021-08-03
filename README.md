@@ -46,8 +46,10 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 * Shutdown  
 * Restart  
 * Camera  
-* Battery Status  
-
+* Battery Status
+* Caps Lock Light
+* RGB Keyboard
+* Thunderbolt 3 without hotplug
 
 
 # Options and Fixes:
