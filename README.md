@@ -13,7 +13,7 @@ I have no access anymore to Razer Blade notebooks and not be able to test proper
 
 
 # Options and Fixes:
-**Caps Lock Light**
+**Caps Lock Light**/br
 If you want to map out your keyboard for volume controls and what not without using the FN key this app will do just that: https://pqrs.org/osx/karabiner/
 **This app will also enable the Caps Lock light.**
 1. Open Karabiner-Elements preferences.
