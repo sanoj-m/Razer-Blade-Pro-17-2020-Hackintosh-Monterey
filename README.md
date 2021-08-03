@@ -10,7 +10,7 @@ I have no access anymore to Razer Blade notebooks and not be able to test proper
 # Intro
 
 | First Header  | Second Header |
-| ------------- | ------------- |
+| :---          |  :---         |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 Specs
