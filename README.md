@@ -1,7 +1,7 @@
 # Razer-Blade-Pro-17-2020-Hackintosh-Monterey
 Note: I'AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!
   
-![alt text](https://github.com/sanoj-m/Razer-Blade-Pro-17-2020-Hackintosh-Monterey/blob/main/OC/mac.png?raw=true)
+![image](https://github.com/sanoj-m/Razer-Blade-Pro-17-2020-Hackintosh-Monterey/blob/main/OC/mac.png?raw=true)
   
 ## Credits to the masters
 * https://dortania.github.io/OpenCore-Install-Guide/  
@@ -54,9 +54,11 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 ## Options and Fixes:
 
-### Display Out
+### **Display Out (All Credits to: https://github.com/vampjaz)**
   
 The laptop has an HDMI port and a DisplayPort-over-Thunderbolt 3 as display outputs. I don't have any TB3-DP converters to test that output, but I have gotten HDMI working. Like the internal display, it sometimes flickers at high resolutions and doesn't seem to support 4K60 but it works alright for now.
+![image](https://user-images.githubusercontent.com/72506041/128131029-40c9e76c-bbdb-49ba-a0c0-af9ee51428b2.png)
+
   
 ### **Keyboard Illumination (All Credits to: https://github.com/vampjaz)**
   
@@ -64,7 +66,7 @@ The RGB keyboard (and logo illumination) cannot be easily controlled from macOS 
 
 If you want to patch this yourself, you need to change the vendor and device IDs in one of the source files since the USB ID of my keyboard differed from the one in the source:
   
-![alt text](https://github.com/vampjaz/razer_blade_stealth_hackintosh/raw/master/images/rbs_led_code.png)
+![image](https://github.com/vampjaz/razer_blade_stealth_hackintosh/raw/master/images/rbs_led_code.png)
   
   
 ### **Caps Lock Light**
