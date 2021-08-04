@@ -82,7 +82,7 @@ In case you manage to mess up the bios and want a virgin one, go to Razer suppor
   
 After that, just boot into bios and increase the DVMT pre alloc mem. Godspeed!
   
-**Keyboard Illumination (All Credits to: https://github.com/vampjaz)**
+### **Keyboard Illumination (All Credits to: https://github.com/vampjaz)**
   
 The RGB keyboard (and logo illumination) cannot be easily controlled from macOS that I know of. The Razer Synapse software for Mac doesn't support this device, and various attempts to hotpatch the Razer kexts failed for me. However, I found a project that I patched and was able to use to set a few patterns. The rz_* apps in the extra folder are some hardcoded examples that can set the keyboard lights to different colors, and enable the Razer logo illumination. Some day I might improve on that app to make it more user friendly.
 
