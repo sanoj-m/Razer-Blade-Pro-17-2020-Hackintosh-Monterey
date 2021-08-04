@@ -3,23 +3,23 @@ Note: I'AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!
   
 ![alt text](https://github.com/sanoj-m/Razer-Blade-Pro-17-2020-Hackintosh-Monterey/blob/main/OC/mac.png?raw=true)
   
-# Credits to the masters
+## Credits to the masters
 * https://dortania.github.io/OpenCore-Install-Guide/  
 * https://github.com/stonevil  
 * https://github.com/steelbrain  
 
-# Support
+## Support
 I have no access anymore to Razer Blade notebooks and not be able to test properly and update documentation. I open for any cooperation and will try maintain this repository as much as possible. Please fill free to create Pull Requests.
 
-# Pre Install
+## Pre Install
 
 Razer has locked the BIOS tight this time, so you'll need a hardware programmer to unlock DVMT Options this time around. Follow the instructions below for mod your BIOS. After modding the BIOS, change DVMT Pre Alloc to 64MB, DVMT Max Alloc to MAX. Also if you've selected "Dedicated GPU Only" Graphics mode, you'll need to put it back in "NVIDIA (R) Optimus" along with Disabling Secure boot.
 
-# Intro
+## Intro
   
 If you would like to get started with creating a Hackintosh on your Razer Blade but have no experience, I would highly reccomend following Dortania's fantastic Opencore Install guide and then returning here for troubleshooting.
   
-**Specs**  
+###**Specs**  
 | Key | Value |
 | :---|  :--- |
 | CPU  | Intel Core i7 10875h  |
@@ -33,7 +33,7 @@ If you would like to get started with creating a Hackintosh on your Razer Blade 
 
 Quick Note: My serial number, MLB, and UUID have been removed from the config.plist. Please use CorpNewt's GenSMBIOS to create your own
 
-**What works:**
+###**What works:**
   
 * Trackpad with Gestures and Palm Rejection  
 * Intel Bluetooth / Wifi
@@ -52,9 +52,9 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 * Thunderbolt 3 without hotplug
 
 
-# Options and Fixes:
+## Options and Fixes:
   
-**DVMT (All Credits to: https://github.com/steelbrain)**
+###**DVMT (All Credits to: https://github.com/steelbrain)**
   
 The bios from this year's models does not open in AMIBCP. I tried many versions of AMIBCP but they all throw the warning of how language name cannot exceed 0xx bytes.
   
@@ -91,7 +91,7 @@ If you want to patch this yourself, you need to change the vendor and device IDs
 ![alt text](https://github.com/vampjaz/razer_blade_stealth_hackintosh/raw/master/images/rbs_led_code.png)
   
   
-**Caps Lock Light**
+###**Caps Lock Light**
   
 If you want to map out your keyboard for volume controls and what not without using the FN key this app will do just that: https://pqrs.org/osx/karabiner/  
   **This app will also enable the Caps Lock light.**  
