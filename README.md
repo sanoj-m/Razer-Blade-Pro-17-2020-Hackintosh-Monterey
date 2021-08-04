@@ -1,4 +1,4 @@
-# Razer-Blade-Pro-17-2020-Hackintosh-Monterey
+# Razer Blade Pro 17 2020 Hackintosh Monterey
 Note: I'AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!
   
 ![image](https://github.com/sanoj-m/Razer-Blade-Pro-17-2020-Hackintosh-Monterey/blob/main/OC/mac.png?raw=true)
