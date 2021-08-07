@@ -59,12 +59,6 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 
 ## Options and Fixes:
-
-### **Display Out (All Credits to: https://github.com/vampjaz)**
-  
-The laptop has an HDMI port and a DisplayPort-over-Thunderbolt 3 as display outputs. I don't have any TB3-DP converters to test that output, but I have gotten HDMI working. Like the internal display, it sometimes flickers at high resolutions and doesn't seem to support 4K60 but it works alright for now.
-![image](https://user-images.githubusercontent.com/72506041/128131029-40c9e76c-bbdb-49ba-a0c0-af9ee51428b2.png)
-
   
 ### **Keyboard Illumination (All Credits to: https://github.com/vampjaz)**
   
