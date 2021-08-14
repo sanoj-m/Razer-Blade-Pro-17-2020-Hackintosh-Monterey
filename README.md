@@ -59,6 +59,10 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 
 
 ## Options and Fixes:
+
+### **iGPU Freequency Stuck fix
+  
+force Load GuC firmware by adding igfxfw=2 boot arg
   
 ### **Keyboard Illumination (All Credits to: https://github.com/vampjaz)**
   
