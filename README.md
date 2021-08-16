@@ -49,12 +49,12 @@ Quick Note: My serial number, MLB, and UUID have been removed from the config.pl
 * Battery Status
 * Caps Lock Light
 * RGB Keyboard
+* CardReader
 
 ### **What isn't working**
 
 * HDMI, Mini Display port, USB C- HDMI or DP
 * Nvidia 2080 super maxq
-* CardReader
 * Thunderbolt 3 (If anyone have any idea how to get it working, please discuss it with me)
 
 
